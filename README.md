@@ -100,12 +100,6 @@ npm run dev
 
 ---
 
-## 📸 Screenshots
-
-(Add your project screenshots here)
-
----
-
 ## 📌 Key Highlights
 
 * Built a scalable real-time chat system using WebSockets
